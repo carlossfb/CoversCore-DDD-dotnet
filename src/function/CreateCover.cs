@@ -103,7 +103,7 @@ public class CreateCover
             var ok = req.CreateResponse(HttpStatusCode.OK);
             await ok.WriteStringAsync(JsonSerializer.Serialize(new
             {
-                message = "Success",
+                message = "Cover created and upload completed successfully!",
                 cover = coverResponse,
             }));
             return ok;
