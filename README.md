@@ -26,8 +26,7 @@ src/
 │   ├── exception/     # Domain Exceptions
 │   └── ports/         # Interfaces (Ports)
 ├── function/          # Azure Functions (Adapters)
-└── infraestructure/   # External Adapters
-    └── util/          # Utility Classes
+└── infraestructure/   # External Adapters (Azure Blob Storage)
 ```
 
 ### Layers Description
