@@ -115,8 +115,7 @@ Form fields:
     "id": "guid",
     "fileName": "My Album Cover",
     "storageUrl": "https://account.blob.core.windows.net/container/image.jpg"
-  },
-  "fileName": "image.jpg"
+  }
 }
 ```
 
